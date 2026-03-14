@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "YouTube Sub Manager",
+  "version": "0.1.0",
+  "description": "유튜브 구독 채널을 더 스마트하게 관리하는 확장 프로그램",
+
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "YouTube Sub Manager"
+  },
+
+  "permissions": [
+    "storage"
+  ]
+}
