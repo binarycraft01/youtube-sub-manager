@@ -10,6 +10,18 @@
   },
 
   "permissions": [
-    "storage"
+    "storage",
+    "identity"
+  ],
+
+  "oauth2": {
+    "client_id": "383964077634-8du8l38lchk5c3j89r28lrlv3fmpi753.apps.googleusercontent.com",
+    "scopes": [
+      "https://www.googleapis.com/auth/youtube.readonly"
+    ]
+  },
+
+  "host_permissions": [
+    "https://www.googleapis.com/*"
   ]
 }
