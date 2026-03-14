@@ -1,0 +1,12 @@
+# 환경변수 파일 (API 키 등 민감한 정보)
+.env
+
+# Node.js 패키지 폴더
+node_modules/
+
+# Windows 시스템 파일
+Thumbs.db
+desktop.ini
+
+# VS Code 설정
+.vscode/
